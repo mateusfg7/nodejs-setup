@@ -5,3 +5,4 @@ Setup of Node.js projects
 - Typescript
   - es2017
   - Paths
+- eslint
