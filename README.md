@@ -6,3 +6,4 @@ Setup of Node.js projects
   - es2017
   - Paths
 - eslint
+- jest
