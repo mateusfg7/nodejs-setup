@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:mateusfg7/nodejs-setup.git",
   "author": "mateusfg7 <mateusfelipefg77@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
