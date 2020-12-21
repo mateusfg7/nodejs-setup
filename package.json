@@ -6,7 +6,8 @@
   "author": "mateusfg7 <mateusfelipefg77@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev -r tsconfig-paths/register --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
+    "dev": "ts-node-dev -r tsconfig-paths/register --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts",
+    "test": "jest"
   },
   "devDependencies": {
     "@types/express": "^4.17.9",
