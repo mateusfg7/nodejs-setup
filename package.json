@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mateusfg7/nodejs-setup.git",
+  "author": "mateusfg7 <mateusfelipefg77@gmail.com>",
+  "license": "MIT"
+}
